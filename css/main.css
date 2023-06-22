@@ -269,7 +269,7 @@ article {
 }
 
 .main__content {
-  background: url(./img/mainImg.png) no-repeat right center/contain;
+  background: url(../img/mainImg.png) no-repeat right center/contain;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -342,7 +342,7 @@ article {
 
 @supports (-webkit-appearance:none) {
   .main__content {
-    background-image: url(./img/mainImg.webp);
+    background-image: url(../img/mainImg.webp);
   }
 }
 
@@ -403,7 +403,7 @@ article {
   }
 
   .filter__content {
-    background-image: url(/img/filterImg.png);
+    background-image: url(../img/filterImg.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
@@ -411,7 +411,7 @@ article {
 
 @supports (-webkit-appearance:none) {
     .filter__content {
-      background-image: url(/img/filterImg.webp);
+      background-image: url(../img/filterImg.webp);
     }
 }
 }
