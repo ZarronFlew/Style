@@ -269,7 +269,7 @@ article {
 }
 
 .main__content {
-  background: url(/img/mainImg.png) no-repeat right center/contain;
+  background: url(./img/mainImg.png) no-repeat right center/contain;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
