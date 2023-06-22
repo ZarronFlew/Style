@@ -342,7 +342,7 @@ article {
 
 @supports (-webkit-appearance:none) {
   .main__content {
-    background-image: url(/img/mainImg.webp);
+    background-image: url(./img/mainImg.webp);
   }
 }
 
